@@ -13,10 +13,6 @@ myecho
 wget -qO ee rt.cx/ee && sudo bash ee  || exit 1
 
 myecho
-
-sudo ee stack install || exit 1
-
-myecho
 # Rubygems update
 
 if [ $(gem -v|grep '^2.') ]; then
