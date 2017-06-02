@@ -1,4 +1,4 @@
-[EasyEngine] (https://github.com/rtCamp/easyengine)-[Vagrant](https://vagrantup.com/)
+[EasyEngine](https://github.com/rtCamp/easyengine)-[Vagrant](https://vagrantup.com/)
 ==================
 
 This is a simple Vagrant file to test  EasyEngine on your any system using Vagrant.
